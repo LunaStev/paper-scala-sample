@@ -2,7 +2,7 @@ package io.github.lunastev.sample.plugin
 
 import org.bukkit.plugin.java.JavaPlugin
 
-class Main extends JavaPlugin {
+class SamplePlugin extends JavaPlugin {
 
   override def onEnable(): Unit = {
     getLogger.info("Scala-based Paper plugin is enabled!")

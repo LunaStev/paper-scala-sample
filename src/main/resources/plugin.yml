@@ -1,4 +1,4 @@
 name: PaperSample
-main: io.github.lunastev.sample.plugin.Main
+main: io.github.lunastev.sample.plugin.SamplePlugin
 version: 0.1.0
 api-version: 1.20
